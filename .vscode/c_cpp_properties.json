@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x86",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${default}",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Middlewares\\Third_Party\\FreeRTOS\\Source\\include",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Middlewares\\Third_Party\\FreeRTOS\\Source\\CMSIS_RTOS_V2",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Middlewares\\Third_Party\\FreeRTOS\\Source\\portable\\RVDS\\ARM_CM4F",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\Drivers\\CMSIS\\Include",
+                "D:\\OneDrive\\OneDrive - Siemens Healthineers\\learning\\codes\\code\\stm32\\freeRTOS\\freeRTOS_TFT_MENU\\V2\\USER",
+                "${workspaceFolder}/Inc",
+                "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2"
+            ],
+            "compilerPath": "D:/MinGW/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [
+                ""
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                "STM32F407xx",
+                "USE_HAL_DRIVER"
+            ]
+        }
+    ],
+    "version": 4
+}
